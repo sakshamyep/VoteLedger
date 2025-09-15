@@ -1,15 +1,16 @@
-# VoteLedger
+# ❄️ VoteLedger
 
 - The ultimate vote tracking and reminder tool for your discord bot through top.gg API
 
-# Features
+# 👀 Features
 
 - Easy to setup
 - Fast
 - Built-in public endpoint
 - Vote reminder system
+- Supports Top.gg and DBL
   
-# Commands Guide
+# 🤖 Commands Guide
 
 - /help : Shows all commands the bot have
 - /setup : Begins the VoteLedger's setup
@@ -17,19 +18,19 @@
 - /invite : Get an invite link of VoteLedger
 - /optout : Manually opt-out dm reminder notifications
 
-# Required Permissions
+# 🎗️ Required Permissions
 
 - Send Messages
 - Create webhooks
 - Embed Links
 - Use External Emoji
 
-# Self Hosting
+# 💎 Self Hosting
 
 - You can host VoteLedger your own, however it's recommended to use the public version for more stability
 - Running a clone/modified version of VoteLedger publically is NOT allowed, you can self host it only for your private use
 
-# Hosting Requirements
+# 🧿 Hosting Requirements
 
 - Nodejs v21 or above
 - Discord.js v14.22.1
